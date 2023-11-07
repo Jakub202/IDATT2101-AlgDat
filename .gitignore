@@ -7,3 +7,6 @@ out/
 *.txt
 
 *.docx
+/task8/src/diverse.lyx
+/task8/src/decompressed.lyx
+/task8/src/compressed.lz77
